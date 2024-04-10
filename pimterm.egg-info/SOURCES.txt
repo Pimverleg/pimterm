@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+pimterm/__init__.py
+pimterm/main.py
+pimterm.egg-info/PKG-INFO
+pimterm.egg-info/SOURCES.txt
+pimterm.egg-info/dependency_links.txt
+pimterm.egg-info/entry_points.txt
+pimterm.egg-info/requires.txt
+pimterm.egg-info/top_level.txt
