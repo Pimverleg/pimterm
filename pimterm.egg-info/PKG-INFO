@@ -1,16 +1,18 @@
 Metadata-Version: 2.1
 Name: pimterm
-Version: 1.2
+Version: 1.2.1
 Summary: A simple Python package that helps you find the command you need.
+Home-page: UNKNOWN
 Author: Pim Verleg
 Author-email: pim_iets@hotmail.com
 License: MIT
+Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
-Requires-Dist: openai
 
 # pimterm
 
@@ -58,3 +60,4 @@ echo "export OPENAI_API_KEY='YOUR_API_KEY'" >> ~/.bashrc
 
 
 The ai will try to return only the command needed. Somtimes when the ai feels explenation is needed it will add it in plain text.
+
